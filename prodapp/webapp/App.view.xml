@@ -1,0 +1,17 @@
+<mvc:View xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc">
+   <App id="app">
+      <pages>
+         <Page title="List of Products">
+            <content>
+               <List items="Test Titel TOS"> 		
+                  <items>
+                     <ObjectListItem
+                        title="Test2231">
+                     </ObjectListItem>
+                  </items>
+               </List>
+            </content>
+         </Page>
+      </pages>
+   </App>
+</mvc:View>
